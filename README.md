@@ -1,3 +1,9 @@
+# I cloned this repo from [here](https://github.com/swiftlang/swift-aoc-starter-example) and then wrote my own solutions on top of it. 
+
+
+
+
+
 # Advent of Code Swift Starter Project
 
 [![Language](https://img.shields.io/badge/language-Swift-red.svg)](https://swift.org)
